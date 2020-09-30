@@ -50,4 +50,4 @@ Download the Apk file on your Android phone and just install the  App/game via i
 
 
 ### Through this project I've learned -
-* **GDX setup**
+* **LibGDX setup**
