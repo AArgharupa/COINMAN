@@ -1,6 +1,5 @@
 # COINMAN
-This is the Coin Man Source code written in Java Programming Language.
-This is actually Super Mario Run Lite version made in Java using Android Studio.
+This is actually Super Mario Run Lite version made in Java using Android Studio and LibGDX ( an free and open source game development application framework).
 <p align="center">
      <img src="https://github.com/AArgharupa/COINMAN/blob/master/android/res/drawable-hdpi/frame.png" alt="Screenshot Assistant" width="20%">
 </p>
