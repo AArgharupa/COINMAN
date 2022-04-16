@@ -37,7 +37,7 @@ This is actually Super Mario Run Lite version made in Java using Android Studio 
 
 
 ## Download
-Download the Apk file on your Android phone and just install the  App/game via it. In case the "Install from Unknown source" is off, please on the feature and install the app/game. Enjoy!!
+Download the Apk file named "android-debug.apk" on your Android phone and just install the App/game via it. In case the "Install from Unknown source" is off, please on the feature and install the app/game. Enjoy!!
 
 ## Rules:
 * **To start new game tap anywhere in the screen or our Coin Man.**
